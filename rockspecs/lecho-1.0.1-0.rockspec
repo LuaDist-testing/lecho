@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "lecho"
-version = "1.0.0-0"
+version = "1.0.1-0"
 
--- LuaDist source
 source = {
-  tag = "1.0.0-0",
-  url = "git://github.com/LuaDist-testing/lecho.git"
+    url = "https://github.com/jprjr/lua-lecho/archive/1.0.1.tar.gz",
+    file= "lua-lecho-1.0.1.tar.gz"
 }
--- Original source
--- source = {
---     url = "https://github.com/jprjr/lua-lecho/archive/1.0.0.tar.gz",
---     file= "lua-lecho-1.0.0.tar.gz"
--- }
 
 description = {
     summary = "A small library for enabling/disabling terminal echo",
@@ -34,3 +26,4 @@ build = {
         }
     }
 }
+
