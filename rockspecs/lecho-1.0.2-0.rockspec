@@ -1,9 +1,9 @@
 package = "lecho"
-version = "1.0.1-0"
+version = "1.0.2-0"
 
 source = {
-    url = "https://github.com/jprjr/lua-lecho/archive/1.0.1.tar.gz",
-    file= "lua-lecho-1.0.1.tar.gz"
+    url = "https://github.com/jprjr/lua-lecho/archive/1.0.2.tar.gz",
+    file= "lua-lecho-1.0.2.tar.gz"
 }
 
 description = {

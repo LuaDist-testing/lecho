@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lecho"
-version = "1.0.1-0"
+version = "1.0.2-0"
 
 -- LuaDist source
 source = {
-  tag = "1.0.1-0",
+  tag = "1.0.2-0",
   url = "git://github.com/LuaDist-testing/lecho.git"
 }
 -- Original source
 -- source = {
---     url = "https://github.com/jprjr/lua-lecho/archive/1.0.1.tar.gz",
---     file= "lua-lecho-1.0.1.tar.gz"
+--     url = "https://github.com/jprjr/lua-lecho/archive/1.0.2.tar.gz",
+--     file= "lua-lecho-1.0.2.tar.gz"
 -- }
 
 description = {
